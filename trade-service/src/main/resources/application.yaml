@@ -1,0 +1,14 @@
+server:
+  port: 8084
+spring:
+  cloud:
+    openfeign:
+      okhttp:
+        enabled: true
+ym:
+  db:
+    database: ym-trade
+  redis:
+    database: 4
+
+

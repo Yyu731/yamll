@@ -1,0 +1,18 @@
+server:
+  port: 8081
+spring:
+  cloud:
+    openfeign:
+      okhttp:
+        enabled: true
+  elasticsearch:
+    uris: 8.149.130.136:9200
+    username: yyes
+    password: yanges
+ym:
+  db:
+    database: ym-item
+  redis:
+    database: 4
+
+

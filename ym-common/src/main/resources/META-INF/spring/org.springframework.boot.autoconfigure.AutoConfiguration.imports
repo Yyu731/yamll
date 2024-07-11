@@ -1,0 +1,6 @@
+com.ymall.common.config.JsonConfig
+com.ymall.common.config.Knife4jConfiguration
+com.ymall.common.config.MvcConfig
+com.ymall.common.config.MyBatisConfig
+com.ymall.common.advice.CommonExceptionAdvice
+com.github.xiaoymin.knife4j.spring.configuration.Knife4jAutoConfiguration
